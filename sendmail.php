@@ -1,6 +1,6 @@
 <?php
 
-	$youremail = "you@yourdomain.com";
+	$youremail = "n1ck_b@mail.ru";
 
 	$name = Trim(stripslashes($_POST['name']));
 	$email = Trim(stripslashes($_POST['email']));
