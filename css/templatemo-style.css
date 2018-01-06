@@ -37,7 +37,7 @@ a:focus {
 
 .tm-logo-div { 
 	padding-top: 40px; 
-	padding-bottom: 40 px;
+	padding-bottom: 40px;
 }
 
 .tm-main-nav { display: none; }
@@ -277,8 +277,8 @@ textarea:-ms-input-placeholder {
 
 @media (min-height: 859px) {
 	.tm-logo-div {
-	    padding-top: 100px;
-	    padding-bottom: 100px;
+	    padding-top: 50px;
+	    padding-bottom: 50px;
 	}
 
 	.tm-nav-item { font-size: 1.9rem; }
